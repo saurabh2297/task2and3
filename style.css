@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}   
+h1{
+    color:whitesmoke;
+    text-align: center;
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: xx-large;
+    margin-top: 25px;
+    text-shadow: 2px 2px 5px yellow;
+}
+
+ul{
+    list-style-type: disc;
+    margin: auto;
+    margin-top: 2%;
+    width: 18%;
+    padding: 30px 20px;
+}
+ul li{
+    color:white;
+    font-size: x-large;
+}
+a {
+    color: hotpink;
+  }
